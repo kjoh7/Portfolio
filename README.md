@@ -8,5 +8,5 @@ You can view my portfolio live at: [https://github.com/kjoh7/Portfolio]
 
 ## Contact Me
 
-LinkedIn: [https://www.linkedin.com/in/katherine-ann-johanson-4b0704213]
 Email: katherineannjohanson@gmail.com
+LinkedIn: [https://www.linkedin.com/in/katherine-ann-johanson-4b0704213]
