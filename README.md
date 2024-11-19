@@ -9,7 +9,7 @@ Welcome to my online portfolio! I am a graphic designer with a passion for brand
 [Web Design](https://github.com/kjoh7/Portfolio/tree/main/Web-Design)  
 [Print Designs](https://github.com/kjoh7/Portfolio/tree/main/Print-Designs)  
 [Illustrations](https://github.com/kjoh7/Portfolio/tree/main/Illustrations)  
-[Resume](https://github.com/kjoh7/Portfolio/tree/main/Resume)  
+[Resume](https://github.com/kjoh7/Portfolio/blob/main/Resume.md)  
 
 ## Contact Me
 
