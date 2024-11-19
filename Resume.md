@@ -3,18 +3,17 @@
 -Phone: [+1 408 612 9357](tel:+1-408-612-9357)  
 -More About Me: [Portfolio](https://github.com/kjoh7/Portfolio), [LinkedIn](https://www.linkedin.com/in/katherine-ann-johanson-4b0704213)  
 							                       	                          		
-## SKILLS
+## Skills
 -Fast learner with a rigorous work ethic  
--Great time management  
--Communicate efficiently in a team dynamic  
--Determined to problem solve with critical thinking skills  
+-Great time management and efficient communication skills
 -Content creation proficient  
+-Determined to problem solve with critical thinking skills  
 -Java beginner experience   
 -Adobe Illustrator and Photoshop intermediate experience  
 -Microsoft office experience   
 -HTML/CSS beginner experience  
 
-## PREVIOUS JOB EXPERIENCE
+## Job Experience
 ### AV Help Desk Student Assistant - California State University, Monterey Bay (Seaside, CA)       
 ### August 2024 - Present                                                                                                     
 -Offer technical service support to students and faculty.  
@@ -43,7 +42,7 @@
 - Expected Graduation: May 2027   
 - Location: Seaside, CA  
 
-## RELEVANT COURSEWORK
+## Relevant Coursework  
 - CST 227 - Design Fundamentals: Builds abilities in digital graphic media production while examining historical trends, typography, color theory, and visual design principles.
 Tackles visual communication design difficulties by creating original vector and bitmap imagery using the design process.  
 - CST 230 - Digital Media Tools II: Integrates audio, video, and animation authoring software to design, manage, and create a multimedia project. This course covers the planning, sketching, and storyboarding of video projects while introducing tools and techniques for creating audio and visual digital effects, along with essential design principles and video composition.  
