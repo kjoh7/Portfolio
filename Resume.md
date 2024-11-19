@@ -1,33 +1,33 @@
-## Katherine-Ann Johanson
--Email: <kjohanson@csumb.edu>
--Phone: [+1 408 612 9357](tel:+1-408-612-9357)
--More About Me: [Portfolio](https://github.com/kjoh7/Portfolio), [LinkedIn](https://www.linkedin.com/in/katherine-ann-johanson-4b0704213)
+## Katherine-Ann Johanson  
+-Email: <kjohanson@csumb.edu>  
+-Phone: [+1 408 612 9357](tel:+1-408-612-9357)  
+-More About Me: [Portfolio](https://github.com/kjoh7/Portfolio), [LinkedIn](https://www.linkedin.com/in/katherine-ann-johanson-4b0704213)  
 							                       	                          		
 ## SKILLS
--Fast learner with a rigorous work ethic
--Great time management
--Communicate efficiently in a team dynamic
--Determined to problem solve with critical thinking skills
--Content creation proficient
--Java beginner experience 
--Adobe Illustrator and Photoshop intermediate experience
--Microsoft office experience
--HTML/CSS beginner experience
+-Fast learner with a rigorous work ethic  
+-Great time management  
+-Communicate efficiently in a team dynamic  
+-Determined to problem solve with critical thinking skills  
+-Content creation proficient  
+-Java beginner experience   
+-Adobe Illustrator and Photoshop intermediate experience  
+-Microsoft office experience   
+-HTML/CSS beginner experience  
 
 ## PREVIOUS JOB EXPERIENCE
-### AV Help Desk Student Assistant                                                                                                                         Seaside, CA	               
--California State University, Monterey Bay                                                                                          August 2024 – Present               
--Offer technical service support to students and faculty.
--Troubleshoot classroom technology displays and settings before and after classes.
--Check all academic locations with an all-access proxy keycard.
--Identify projector, computer, and audio issues with practical solutions.
--Provide computer hardware maintenance and equipment checks.
--Manage microphones and similar equipment for event use.
--Answer support phone calls with relevant advice and go the issue’s location immediately to fix it.
--Generate detailed tickets to identify and address each technical issue dealt with.
+### AV Help Desk Student Assistant - California State University, Monterey Bay (Seaside, CA)       
+### August 2024 - Present                                                                                                     
+-Offer technical service support to students and faculty.  
+-Troubleshoot classroom technology displays and settings before and after classes.  
+-Check all academic locations with an all-access proxy keycard.  
+-Identify projector, computer, and audio issues with practical solutions.  
+-Provide computer hardware maintenance and equipment checks.  
+-Manage microphones and similar equipment for event use.  
+-Answer support phone calls with relevant advice and go the issue’s location immediately to fix it.  
+-Generate detailed tickets to identify and address each technical issue dealt with.  
  
-### Retail Sales Lead                                                                                                                                                     Gilroy, CA	               
-Loft Outlet                                                                                                                                        April 2023 – August 2023	                 
+### Retail Sales Lead - Loft Outlet (Gilroy, CA)                                                     
+### April 2023 – August 2023	                 
 -Performed opening and closing procedures; opened registers, started paperwork, and processed bank deposits.
 -Replenishing merchandise throughout the store and fitting rooms.
 -Rang up customers and assisted customers' concerns.
@@ -39,12 +39,11 @@ Loft Outlet                                                                     
 -Trained new associates.
 
 ## California State University, Monterey Bay
--Bachelors Of Science	in Communication Design                                  
--Expected Graduation: May 2027 
--Location: Seaside, CA
+- Bachelors Of Science in Communication Design                                    
+- Expected Graduation: May 2027   
+- Location: Seaside, CA  
 
 ## RELEVANT COURSEWORK
--CST 227 - Design Fundamentals: Builds abilities in digital graphic media production while examining historical trends, typography, color theory, and visual design principles.
-Tackles visual communication design difficulties by creating original vector and bitmap imagery using the design process.
--CST 230 - Digital Media Tools II: Integrates audio, video, and animation authoring software to design, manage, and create a multimedia project. 
-This course covers the planning, sketching, and storyboarding of video projects while introducing tools and techniques for creating audio and visual digital effects, along with essential design principles and video composition.
+- CST 227 - Design Fundamentals: Builds abilities in digital graphic media production while examining historical trends, typography, color theory, and visual design principles.
+Tackles visual communication design difficulties by creating original vector and bitmap imagery using the design process.  
+- CST 230 - Digital Media Tools II: Integrates audio, video, and animation authoring software to design, manage, and create a multimedia project. This course covers the planning, sketching, and storyboarding of video projects while introducing tools and techniques for creating audio and visual digital effects, along with essential design principles and video composition.  
