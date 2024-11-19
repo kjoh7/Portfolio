@@ -5,9 +5,9 @@
 							                       	                          		
 ## Skills
 -Fast learner with a rigorous work ethic  
--Great time management and efficient communication skills
+-Great time management and efficient communication skills  
 -Content creation proficient  
--Determined to problem solve with critical thinking skills  
+-Determined to problem solve with critical thinking   
 -Java beginner experience   
 -Adobe Illustrator and Photoshop intermediate experience  
 -Microsoft office experience   
