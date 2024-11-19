@@ -6,7 +6,7 @@ Welcome to my online portfolio! I am a graphic designer with a passion for brand
 
 You can view my portfolio live at: [https://github.com/kjoh7/Portfolio]
 
-### Contact Me
+## Contact Me
 
 Email: katherineannjohanson@gmail.com
 LinkedIn: [https://www.linkedin.com/in/katherine-ann-johanson-4b0704213]
