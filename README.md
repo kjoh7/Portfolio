@@ -5,7 +5,7 @@ Welcome to my online portfolio! I am a graphic designer with a passion for brand
 ## Portfolio Hyperlinks
 
 [Main Page](https://github.com/kjoh7/Portfolio)  
-[Branding Logos](https://github.com/kjoh7/Portfolio/tree/main/Print-Designs)  
+[Branding](https://github.com/kjoh7/Portfolio/tree/main/Print-Designs)  
 [Web Design Projects](https://github.com/kjoh7/Portfolio/tree/main/Web-Design)  
 [Print Designs](https://github.com/kjoh7/Portfolio/tree/main/Print-Designs)  
 [Illustrations](https://github.com/kjoh7/Portfolio/tree/main/Illustrations)  
