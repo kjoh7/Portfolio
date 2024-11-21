@@ -14,4 +14,4 @@ Welcome to my online portfolio! I am a graphic designer with a passion for brand
 ## Contact Me
 
 Email: katherineannjohanson@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/katherine-ann-johanson-4b0704213]
+LinkedIn: [Katherine-Ann Johanson](https://www.linkedin.com/in/katherine-ann-johanson-4b0704213)
