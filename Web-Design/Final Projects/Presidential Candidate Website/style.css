@@ -1,0 +1,294 @@
+@media screen and (min-width: 780px){
+  body {
+    font-family:  Georgia, "Times New Roman", Times, serif;
+    font-size: 100%;
+  background-color: #234898; 
+    margin: 0;
+  line-height: 2em;
+  color: #FFFFFF;
+  }
+
+  a {
+  text-decoration: none;
+  border-bottom: 1px dotted;
+  background-color: #234898;
+  color: #fafcff;
+  text-align: center;
+  }
+
+  a:hover {
+    color: #526da7;
+  }
+
+  header {
+  margin: 2em 0 1em;
+  }
+
+  header img {
+  display: block;
+  margin: 0 auto;
+  width: 350px;
+  padding-bottom: 5%;
+  }
+  img {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  }
+
+  header h2 {
+  font-size: 1.2em;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  margin-top: -10px;
+  text-align: center;
+  }
+  h1 {
+  color: #ffffff;
+  text-align: center;
+  }
+  h2 {
+  color: #ffffff;
+  text-align: center;
+  }
+  h3 {
+  color: #ffffff;
+  text-align: center;
+  }
+  p {
+  font-family: Georgia, "Times New Roman",        Times, serif;
+  margin: 1em;
+  color: #ffffff;
+  overflow-wrap: break-word;
+  text-align: left;
+  }
+
+  header p {
+  font-family:  Georgia, "Times New Roman", Times, serif;
+  margin: 1em;
+  background-color: #000000;
+  text-align: center;
+  }
+
+  nav {
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+  text-align: center;
+  }
+
+  nav ul {
+  list-style-type: none;
+  padding: 5%;
+  margin: 0;
+  text-align: center;
+  } 
+
+  nav ul li {
+  font-weight: normal;
+    text-transform: uppercase;
+    display: inline;
+    padding: .5em;
+    border: 1px solid white;
+    border-radius: .5em;
+    margin: .25em;
+  }
+
+  nav ul a {
+    color: #fff;
+  }
+
+  nav ul a:hover {
+    color: #fc6;
+  }
+
+  em { 
+    color: #6073be;
+  }
+
+  .buttons {
+  display: block;
+  text-align: center;
+  background-color:#3d72b8;
+  margin: 2px;
+  text-decoration-color:#234898;
+  }
+  .buy {
+  text-align: center;
+  }
+  .about {
+  width: 100%;
+  height: auto;
+  }
+  footer {
+    color:#ffffff; 
+    font-size: .8em;
+    text-align: center;
+    clear: left;
+  }
+  footer img {
+  float: left;
+  margin-right: 10px;
+  width: auto;
+  height: auto;
+  }
+  #footer1 {
+  font-weight: bold;
+  }
+  #footer2 {
+  font-weight: bold;
+  }
+  #footer3 {
+  font-weight: bold;
+  }
+}
+@media screen and (max-width: 780px) {
+    body {
+        font-family:  Georgia, "Times New Roman", Times, serif;
+        font-size: 100%;
+      background-color: #234898; 
+        margin: 0;
+      line-height: 2em;
+      color: #FFFFFF;
+    }
+
+    a {
+      text-decoration: none;
+      border-bottom: 1px dotted;
+      background-color: #234898;
+      color: #fafcff;
+      text-align: center;
+      }
+
+    a:hover {
+        color: #526da7;
+      }
+
+    header {
+      margin: 2em 0 1em;
+    }
+
+    header img {
+      display: block;
+      margin: 0 auto;
+      width: 350px;
+      padding-bottom: 5%;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+      width: 50%;
+      padding-top: 1%;
+      padding-bottom: 1%;
+    }
+  
+    header h2 {
+      font-size: 1.2em;
+      text-transform: uppercase;
+      letter-spacing: .2em;
+      margin-top: -10px;
+      text-align: center;
+    }
+    h1 {
+      color: #ffffff;
+      text-align: center;
+    }
+    h2 {
+    color: #ffffff;
+    text-align: center;
+    }
+    h3 {
+    color: #ffffff;
+    text-align: center;
+    }
+    p {
+      font-family: Georgia, "Times New Roman",        Times, serif;
+      margin: 1em;
+      color: #ffffff;
+      overflow-wrap: break-word;
+      text-align: left;
+    }
+
+    header p {
+      font-family:  Georgia, "Times New Roman", Times, serif;
+      margin: 1em;
+      background-color: #000000;
+      text-align: center;
+    }
+
+    nav {
+      left: 0;
+      top: 0;
+      width: 100%;
+      z-index: 10;
+      text-align: center;
+    }
+
+    nav ul {
+      list-style-type: none;
+      padding: 5%;
+      margin: 0;
+      text-align: center;
+    } 
+
+    nav ul li {
+      font-weight: normal;
+        text-transform: uppercase;
+        display: inline;
+        padding: .5em;
+        border: 1px solid white;
+        border-radius: .5em;
+        margin: .25em;
+    }
+
+    nav ul a {
+        color: #fff;
+      }
+
+    nav ul a:hover {
+        color: #fc6;
+      }
+
+    em { 
+        color: #6073be;
+      }
+
+    .buttons {
+      display: block;
+      text-align: center;
+      background-color:#3d72b8;
+      margin: 2px;
+      text-decoration-color:#234898;
+     }
+    .buy {
+      text-align: center;
+    }
+    .about {
+      width: 100%;
+      height: auto;
+    }
+    footer {
+        color:#ffffff; 
+        font-size: .8em;
+        text-align: center;
+        clear: left;
+      }
+    footer img {
+      float: left;
+      margin-right: 10px;
+      width: auto;
+      height: auto;
+    }
+  #footer1 {
+    font-weight: bold;
+  }
+  #footer2 {
+    font-weight: bold;
+  }
+  #footer3 {
+    font-weight: bold;
+  }
+}
